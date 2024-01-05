@@ -1,6 +1,6 @@
 const Posts = () =>{
     return(
-        <div>POSTINGAN PAGE</div>
+        <div className="text-green-500 bg-violet-950 border-b-4 border-red-500">POSTINGAN PAGE</div>
     )
 }
 
